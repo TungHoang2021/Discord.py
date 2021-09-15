@@ -2,7 +2,7 @@ Discord.py
 ==========
 
 .. image:: https://discord.com/api/guilds/336642139381301249/embed.png
-   :target: https://discord.gg/r3sSKJJ
+   :target: https://discord.gg/dpy
    :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
@@ -114,5 +114,5 @@ Links
 ------
 
 - `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
-- `Official Discord Server <https://discord.gg/r3sSKJJ>`_
+- `Official Discord Server <https://discord.gg/dpy>`_
 - `Discord API <https://discord.gg/discord-api>`_
